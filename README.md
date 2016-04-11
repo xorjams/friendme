@@ -1,2 +1,2 @@
 # friendme
-Find friends through metopes
+Find friends through meetups
